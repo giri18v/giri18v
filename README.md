@@ -1,6 +1,6 @@
 **Hi there** 👋
 
- 👀 I am Giridharan, working as an Senior Associte Technology at Publicis Sapient 
+ 👀 I am Giridharan, working as a Senior Associate Technology at Publicis Sapient 
  
 💻 I’m a Java Application Developer.
 
