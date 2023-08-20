@@ -1,4 +1,7 @@
-**Hello there** 👋
+  ## Hello there 👋
+  
+  
+  ## About Me 👩‍💼
 
 
  👀 I am Giridharan, working as a Senior Associate Technology at Publicis Sapient <br />
@@ -6,7 +9,7 @@
 🌱 I’m a certified Google Cloud Engineer(GCP) , learning more in GCP.<br />
 💞️ Interests: Listening songs, creating content, Cricket,Badminton <br />
 
-**Tech Stack**
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -22,8 +25,10 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
+## Contact Me
 
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GIRI18V)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giridharan-veeran-138621148/)
 
 
 
