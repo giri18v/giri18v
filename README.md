@@ -1,7 +1,7 @@
   ## Hello there 👋
   
   
-  ## About Me 👩‍💼
+  ## About Me 
 
 
  👀 I am Giridharan, working as a Senior Associate Technology at Publicis Sapient <br />
